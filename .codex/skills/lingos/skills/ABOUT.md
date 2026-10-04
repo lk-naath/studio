@@ -2,6 +2,10 @@
 
 ## Name
 
+Lingos
+
+## Company name
+
 Deep Lingos
 
 ## Tagline
@@ -14,31 +18,26 @@ Deep Lingos is building the open language and systems for intelligence to percei
 
 ## Current status
 
-- Work began online in January 2026.
-- Lingos is currently an independent project being developed and managed informally.
-- No legal entity or formal organizational structure has been established yet.
+- Started in January 2026.
+- Established and operated online.
+- Still operating online with no physical or formally registered presence.
+- No legal registration or formal legal entity has been established yet.
 
-## People
+## Ownership and maintenance
 
-- **Project lead and manager:** LK Naath
-- **Current responsibility:** Managing Lingos and working on its development.
-- **Other contributors:** Not documented yet.
-
-## Contact
-
-- **Project contact:** lk.naath@gmail.com
+- **Founder:** Lekhnath Parajuli
+- **Email:** lk.naath@gmail.com
+- **Maintenance:** Lingos is currently maintained and developed by its solo founder.
+- **Current responsibility:** Lekhnath manages Lingos and works on its development.
+- **Other contributors:** None currently documented.
 
 ## Terminology
 
 - **Lingos:** Short project name.
-- **Deep Lingos:** Full project name currently used in the overview.
+- **Deep Lingos:** Company name for Lingos.
 
-## To define
+## Project direction
 
-- Purpose and mission
-- Vision
-- Goals
-- Product or offering
-- Target audience
-- Meaning of “open language and systems”
-- Future legal or organizational structure
+The purpose, mission, vision, and specific goals of Lingos have not been formally defined yet. The product or offering, target audience, and practical meaning of “open language and systems” also remain to be documented.
+
+The future legal or organizational structure has not been decided.
