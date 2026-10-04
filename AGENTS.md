@@ -6,6 +6,7 @@
 | Documentation rules | `DOCS.md` | How knowledge is written and maintained |
 | Lingos knowledge | `.codex/skills/lingos/skills/` | Facts and context about Lingos |
 | LinkedIn guidance | `.codex/skills/linkedin/skills/` | How Lingos knowledge becomes LinkedIn content |
+| Generated content | `studio/{topic}/` | Topic-specific generated deliverables; for example, `studio/linkedin/` |
 | Configuration | `.codex/config.toml` | Codex configuration; preserve unless explicitly requested |
 
 ```mermaid
